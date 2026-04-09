@@ -1,4 +1,4 @@
-### 📌 Brightspace LMS AUtomations
+### 📌 Brightspace LMS Automations
 To automate manual tasks created excels with VBA code which help in triggering required apis to update/create on Brightspace LMS and also update the request & response in the same excel to easily identify & debug issues.
 
 ### 📌 1. Bulk Assignment Update (Brightspace LMS)
